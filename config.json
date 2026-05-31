@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configuecrypt",
+        "uuid": 31764465,
+        "checksum": "plmlwv"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
